@@ -1,0 +1,2 @@
+# hugoimg
+image for hugo
